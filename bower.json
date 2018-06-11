@@ -1,0 +1,17 @@
+{
+  "name": "BootstrapLanding",
+  "homepage": "https://github.com/DilionsCode/BootstrapLanding",
+  "authors": [
+    "Dilion Smith <dilslawns@gmail.com>"
+  ],
+  "description": "Bootstrap Landing Page",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
