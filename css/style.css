@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Raleway:500');
 /* Footer */
 html,
 body {
@@ -25,4 +26,30 @@ body {
   padding-top: 3em;
   padding-bottom: 3em;
   color: #FFF;
+}
+/* Body */
+.intro {
+  padding-top: 6em;
+  padding-bottom: 6em;
+}
+.intro i {
+  padding-bottom: 15px;
+}
+.section {
+  padding-top: 3em;
+  padding-bottom: 3em;
+}
+.section-text {
+  padding: 7em;
+}
+/* Text */
+h1,
+h2,
+h3 {
+  font-family: 'Raleway', sans-serif;
+}
+p,
+a,
+li {
+  font-family: 'Montserrat', sans-serif;
 }
