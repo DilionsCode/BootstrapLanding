@@ -1,0 +1,28 @@
+/* Footer */
+html,
+body {
+  height: 100%;
+}
+.wrap {
+  min-height: 90%;
+  height: auto;
+  margin: 0 auto -60px;
+  padding: 0 0 60px;
+}
+.footer {
+  padding-bottom: 4rem;
+  padding-top: 30px;
+  width: 100%;
+}
+/* Header */
+.header {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.header h1 {
+  text-align: center;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  color: #FFF;
+}
