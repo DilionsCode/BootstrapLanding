@@ -21,10 +21,10 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
-.header h1 {
+.header-text {
   text-align: center;
-  padding-top: 3em;
-  padding-bottom: 3em;
+  padding-top: 6em;
+  padding-bottom: 6em;
   color: #FFF;
 }
 /* Body */
